@@ -189,7 +189,8 @@ app.use((req, res, next) => {
 });
 
 // MongoDB connection with better error handling
-const uri = process.env.MONGODB_URI || "mongodb+srv://giridharak2301:Admin@cluster0.imngn72.mongodb.net/Travel_with_us?retryWrites=true&w=majority&appName=Cluster0";
+
+|//const uri = process.env.MONGODB_URI || "mongodb+srv://giridharak2301:Admin@cluster0.imngn72.mongodb.net/Travel_with_us?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose.connect(uri, { 
   useNewUrlParser: true, 
