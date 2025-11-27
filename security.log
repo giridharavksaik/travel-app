@@ -1,0 +1,42 @@
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T05:57:43.177Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T05:57:43.804Z"}
+{"email":"bhavani@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T05:58:40.331Z","userId":"68c2651098603dc0f40fcbdb","username":"bhavani"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T05:59:29.726Z","userId":"68c2651098603dc0f40fcbdb","username":"bhavani"}
+{"email":"giridharak2301@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T06:09:51.817Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:11:52.822Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:13:04.121Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:14:12.083Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:15:07.483Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:15:08.337Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:15:33.548Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:28:39.799Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:28:40.398Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:28:58.551Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:28:59.145Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:33:04.632Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:33:05.629Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:03:36.194Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T08:03:37.449Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:14:56.020Z"}
+{"error":"querySrv ETIMEOUT _mongodb._tcp.cluster0.imngn72.mongodb.net","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:14:56.041Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:19:08.506Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:19:57.404Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:21:00.841Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:21:19.929Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:23:40.637Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:24:00.448Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:58:35.532Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T08:58:36.114Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T08:58:55.927Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"email":"sravanivemula69@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T08:59:58.997Z","userId":"68c28f8e23ef07e2954c11e3","username":"sravani"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T09:13:26.005Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T09:13:26.501Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T09:29:43.267Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T09:29:44.026Z"}
+{"email":"giridharak2301@gmail.com","level":"info","message":"New contact form submitted","name":"giridhar","phone":"1234567890","timestamp":"2025-09-11T09:30:20.787Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T09:34:52.212Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T09:34:52.829Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T10:09:56.090Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T10:09:57.231Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T10:11:39.779Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T10:11:40.405Z"}

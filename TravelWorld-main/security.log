@@ -1,0 +1,152 @@
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T05:57:43.177Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T05:57:43.804Z"}
+{"email":"bhavani@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T05:58:40.331Z","userId":"68c2651098603dc0f40fcbdb","username":"bhavani"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T05:59:29.726Z","userId":"68c2651098603dc0f40fcbdb","username":"bhavani"}
+{"email":"giridharak2301@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T06:09:51.817Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:11:52.822Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:13:04.121Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:14:12.083Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:15:07.483Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:15:08.337Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:15:33.548Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:28:39.799Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:28:40.398Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:28:58.551Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T06:28:59.145Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T06:33:04.632Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T06:33:05.629Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:03:36.194Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T08:03:37.449Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:14:56.020Z"}
+{"error":"querySrv ETIMEOUT _mongodb._tcp.cluster0.imngn72.mongodb.net","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:14:56.041Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:19:08.506Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:19:57.404Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:21:00.841Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:21:19.929Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:23:40.637Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-11T08:24:00.448Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T08:58:35.532Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T08:58:36.114Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T08:58:55.927Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"email":"sravanivemula69@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-11T08:59:58.997Z","userId":"68c28f8e23ef07e2954c11e3","username":"sravani"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T09:13:26.005Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T09:13:26.501Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T09:29:43.267Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T09:29:44.026Z"}
+{"email":"giridharak2301@gmail.com","level":"info","message":"New contact form submitted","name":"giridhar","phone":"1234567890","timestamp":"2025-09-11T09:30:20.787Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T09:34:52.212Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T09:34:52.829Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T10:09:56.090Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T10:09:57.231Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T10:11:39.779Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T10:11:40.405Z"}
+{"error":"getaddrinfo ENOTFOUND ac-l4fowke-shard-00-00.imngn72.mongodb.net","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-11T15:50:50.973Z"}
+{"error":"getaddrinfo ENOTFOUND ac-l4fowke-shard-00-00.imngn72.mongodb.net","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-11T15:50:52.246Z"}
+{"error":"getaddrinfo ENOTFOUND ac-l4fowke-shard-00-00.imngn72.mongodb.net","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-11T15:50:53.458Z"}
+{"error":"getaddrinfo ENOTFOUND ac-l4fowke-shard-00-00.imngn72.mongodb.net","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-11T15:50:54.205Z"}
+{"error":"getaddrinfo ENOTFOUND ac-l4fowke-shard-00-00.imngn72.mongodb.net","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-11T15:50:54.425Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T15:55:21.411Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T15:55:22.983Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T15:55:31.306Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-11T17:31:02.075Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-11T17:31:03.584Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-11T17:31:17.024Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"email":"giridharak2301@gmail.com","level":"info","message":"New contact form submitted","name":"giridhar","phone":"9491956374","timestamp":"2025-09-11T17:32:13.074Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T03:51:41.615Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-12T03:51:47.342Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T03:58:55.556Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-12T03:59:01.877Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T03:59:22.588Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T03:59:23.412Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T03:59:31.467Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T03:59:32.855Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T03:59:34.506Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T04:00:51.207Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-12T04:00:56.414Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T04:01:05.484Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T04:01:07.593Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T04:01:08.464Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T04:01:13.708Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T04:01:15.076Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T04:06:25.527Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T04:06:26.623Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T04:06:32.391Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T04:29:07.332Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T04:29:08.625Z"}
+{"email":"dussauday469@gamil.com","level":"info","message":"New contact form submitted","name":"uday","phone":"9491956374","timestamp":"2025-09-12T04:30:14.154Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T04:40:12.514Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T04:40:13.689Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T04:52:25.031Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T04:52:26.206Z"}
+{"email":"sravanivemula69@gmail.com","level":"info","message":"New contact form submitted","name":"uday","phone":"9347647040","timestamp":"2025-09-12T04:52:59.252Z"}
+{"email":"sravanivemula69@gmail.com","level":"info","message":"New contact form submitted","name":"uday","phone":"9347647040","timestamp":"2025-09-12T04:53:10.734Z"}
+{"email":"sravanivemula69@gmail.com","level":"info","message":"New contact form submitted","name":"uday","phone":"6304478845","timestamp":"2025-09-12T04:53:29.950Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T04:53:54.445Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"email":"giridharak2301@gmail.com","level":"info","message":"New contact form submitted","name":"uday krishna","phone":"9491956374","timestamp":"2025-09-12T04:54:27.819Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T04:57:17.667Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:05:01.232Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:05:02.796Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:12:38.567Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:12:40.119Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:30:04.430Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:30:05.639Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:33:38.586Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-12T05:33:50.257Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T05:36:14.799Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T05:36:18.551Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T05:36:18.797Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T05:36:18.999Z"}
+{"error":"Operation `Register.findOne()` buffering timed out after 10000ms","ip":"::1","level":"error","message":"Login error","timestamp":"2025-09-12T05:36:19.169Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:36:29.852Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:36:31.171Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T05:36:48.400Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:41:22.006Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:41:22.851Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T05:53:24.021Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T05:53:24.764Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:08:58.515Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:08:59.324Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:15:34.368Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:15:35.234Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:33:30.120Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:33:30.819Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:38:10.483Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:38:11.247Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:42:08.196Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:42:08.793Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T06:49:25.052Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T06:49:25.615Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T07:36:25.928Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T07:36:26.645Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T07:36:58.338Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T07:48:15.849Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T07:48:16.256Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T07:53:52.143Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T07:53:53.979Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-12T17:40:13.005Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-12T17:40:15.789Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-12T17:42:38.442Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-14T07:25:27.966Z"}
+{"error":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","level":"error","message":"Database connection failed","timestamp":"2025-09-14T07:25:53.471Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-17T10:58:21.299Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-17T10:58:22.910Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-18T05:18:28.399Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-18T05:18:29.208Z"}
+{"email":"vidya@gmail.com","ip":"::1","level":"info","message":"User registered successfully","timestamp":"2025-09-18T05:23:15.624Z","userId":"68cb97436de0bc66d366716b","username":"vidya"}
+{"attempts":1,"ip":"::1","level":"warn","message":"Failed login attempt","timestamp":"2025-09-18T05:23:48.339Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0","userId":"68cb97436de0bc66d366716b"}
+{"attempts":1,"ip":"::1","level":"warn","message":"Failed login attempt","timestamp":"2025-09-18T05:23:49.047Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0","userId":"68cb97436de0bc66d366716b"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-18T05:33:22.379Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-18T05:33:23.056Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-09-18T05:33:37.653Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-18T11:23:22.019Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-18T11:23:22.662Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-09-25T16:25:39.880Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-09-25T16:25:41.224Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-10-24T03:51:15.425Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-10-24T03:51:24.415Z"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-10-24T03:56:00.086Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"ip":"::1","level":"info","message":"User logged in successfully","timestamp":"2025-10-24T03:57:57.025Z","userId":"68c267af98603dc0f40fcbe0","username":"giridhar"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-10-24T04:08:27.480Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-10-24T04:08:29.739Z"}
+{"level":"info","message":"Server started","port":3000,"timestamp":"2025-10-24T04:17:09.977Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-10-24T04:17:10.575Z"}
