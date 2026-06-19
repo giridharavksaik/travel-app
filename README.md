@@ -14,21 +14,6 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 - [ReactStrap](https://github.com/reactstrap/reactstrap)
 - [Stackoverflow](https://stackoverflow.com/)
 
-## Authors
-
-- [@Shuence](https://www.github.com/shuence) 💫
-
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-## Live Preview
-
-[TravelWorld 🌍](https://travelworldtours.netlify.app/)
-
-![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
-
-<https://github.com/shuence/Travel-World/assets/65482186/69a5ebf9-85d7-4f65-a8a2-066dceebbc24>
 
 ## Setup
 
