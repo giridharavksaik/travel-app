@@ -2,28 +2,15 @@
 # TravelWorld 🌍
 
 A Fullstack Tours & Travels Web App Using MERN Stack 💫
-
-## Backend Repository
-
-- [TravelWorld Backend Repository](https://github.com/shuence/Bakend-for-TravelWorld)
-
-## Resources
-
-- [React Docs](https://beta.reactjs.org/)
-- [BootStrap](https://getbootstrap.com/docs/)
-- [ReactStrap](https://github.com/reactstrap/reactstrap)
-- [Stackoverflow](https://stackoverflow.com/)
-
-
 ## Setup
 
 To Setup this project run
 
 ```bash
-git clone <https://github.com/shuence/Travel-World>
-cd Travel-World
-yarn
-yarn serve
+git clone https://github.com/giridharavksaik/travel-app.git
+cd travel-app
+yarn install
+yarn start
 ```
 
 ## Environment Variables
@@ -68,12 +55,6 @@ While building this project, I embarked on my first full-stack journey, transiti
 7. **Version Control and Rollbacks:** I grasped the importance of version control not only for the codebase but also for server configurations, facilitating easy rollbacks if needed.
 
 Overall, this project marked a significant milestone in my journey as a full-stack developer. Combining frontend and backend expertise, I can now confidently bring complete web applications to life and tackle new challenges with enthusiasm.
-
-## clone
-git clone https://github.com/giridharavksaik/travel-app.git
-cd travel-app
-yarn install
-yarn start
 
 # TravelWorld 🌍
 A full-stack tours & travel booking platform built with the **MERN stack**.  
