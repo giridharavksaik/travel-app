@@ -69,6 +69,18 @@ While building this project, I embarked on my first full-stack journey, transiti
 
 Overall, this project marked a significant milestone in my journey as a full-stack developer. Combining frontend and backend expertise, I can now confidently bring complete web applications to life and tackle new challenges with enthusiasm.
 
+## clone
+git clone https://github.com/giridharavksaik/travel-app.git
+cd travel-app
+yarn install
+yarn start
+
+# TravelWorld 🌍
+A full-stack tours & travel booking platform built with the **MERN stack**.  
+Seamlessly browse tours, view details, and book your next adventure online.
+
+🔗 [Live Demo](https://travel-app-chi-tawny.vercel.app) | 📦 [Backend Repo](https://github.com/shuence/Travel-World)
+
 ## Tech Stack
 
 **Client:** React, Bootstrap, Reactstrap, Remix Icons
